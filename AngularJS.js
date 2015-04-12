@@ -69,7 +69,6 @@ define(['altair/facades/declare',
 
                 if(route.angular !== false) {
                     route.media.js.unshift('/public/_angular/altair.js');
-                    route.media.js.unshift('/public/_angular/bower_components/angular-file-upload/angular-file-upload.min.js');
                     route.media.js.unshift(filename);
                 }
 
