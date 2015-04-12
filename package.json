@@ -3,8 +3,8 @@
     "version":      "0.0.3",
     "description":  "Give your tital:Alfred site some AngularJS muscle.",
     "altairDependencies": {
-        "titan:Alfred":         ">=0.0.x",
-        "liquidfire:Spectre":   ">=0.0.x",
-        "liquidfire:Files":     ">=0.0.x"
+        "titan:Alfred":         ">=0.2.x",
+        "liquidfire:Spectre":   ">=0.1.x",
+        "liquidfire:Files":     ">=0.1.x"
     }
 }
